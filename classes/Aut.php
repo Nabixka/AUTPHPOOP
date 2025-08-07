@@ -11,4 +11,5 @@ include("user.php");
         }
     }
 
+    echo "persona";
 ?>

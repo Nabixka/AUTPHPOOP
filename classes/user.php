@@ -29,4 +29,5 @@ include("DB.php");
 
     }
 
+     echo "persona";
 ?>

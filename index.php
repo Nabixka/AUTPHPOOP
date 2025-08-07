@@ -8,4 +8,8 @@
     $data = $user->getAll();
     var_dump($data);
 
+
+     echo "persona";
+
+     
 ?>
